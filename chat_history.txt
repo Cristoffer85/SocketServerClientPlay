@@ -1,0 +1,19 @@
+Kalle1 (/127.0.0.1:49672): Hej!
+Kalle2 (/127.0.0.1:49677): Hej!
+Kalle3 (/127.0.0.1:49681): Hej!
+Kalle1 (/127.0.0.1:49672): Hur är det med dig idag Kalle2?
+Kalle2 (/127.0.0.1:49677): Tack det är bara bra med mig idag Kalle1. Hur är det med dig själv?
+Kalle1 (/127.0.0.1:49672): Tack Kalle2 det är bara bra med mig här med. Hur är det med dig långt därborta då Kalle3?
+Kalle3 (/127.0.0.1:49681): Tack Kalle1 för frågan det är bra med mig här med! Precis avslutat min Cola Zero och Family Guy till frukost så det är bara jättebra här också! Vad är ditt favoritprogram på TV:n då?
+Kalle1 (/127.0.0.1:49672): Ooh vad roligt och bra då, ja om jag ska vara ärlig så avskyr jag faktiskt Family Guy och är mer för Simpsons
+Kalle2 (/127.0.0.1:49677): Ursäkta, men här måste jag bara avbryta, Cola Zero till frukost? Hur kan du inte hellre föredra Pepsi Max?
+Kalle3 (/127.0.0.1:49681): Jag gillar rött bättre
+Kalle2 (/127.0.0.1:49677): Max har också rött i sig
+Kalle2 (/127.0.0.1:49677): En hel del så faktiskt
+Kalle3 (/127.0.0.1:49681): Kalle1, hur kunde du i ditt påstående anstå att du avskyr Family Guy? Jag tycker det var lite fräckt uttryckt, du kunde sagt "gillar mindre" etc, istället
+Kalle1 (/127.0.0.1:49672): Ursäkta, jag har fått för lite Koffein i mig idag
+Kalle2 (/127.0.0.1:49677): Då kan jag rekommendera Pepsi Max! Nästan dubbla mängden Koffein jämfört Cola Zero!
+Kalle3 (/127.0.0.1:49681): Herregud,
+Kalle3 (/127.0.0.1:49681): /quit
+Kalle2 (/127.0.0.1:49677): Det är inte så du avbryter chat:en Kalle3, den funktionen+meddelandet existerar inte än
+Kalle1 (/127.0.0.1:49672): Jaa.. jag trodde det här skulle vara ett inledande grupparbete om RestAPI:er, men
